@@ -1,0 +1,5 @@
+NAMA    : SAMUEL RIVALDO SARAGIH
+KELAS   : 2B TRPL
+NIM     : 362358302156
+
+![Gambar](image.png)
